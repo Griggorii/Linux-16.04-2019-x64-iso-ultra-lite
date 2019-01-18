@@ -1,3 +1,7 @@
 Download iso: https://dropmefiles.com/zAenQ
 
+Так же после установки выполните установку этих пакетов
+
+sudo apt install libxfont1:i386 libsndfile1:i386 libflac8:i386 libgssapi-krb5-2:i386 libjack-jackd2-0:i386 libkrb5-3:i386 libkeyutils1:i386 libvorbisenc2:i386 libvorbis0a:i386 libogg0:i386 libpixman-1-0:i386 libwrap0:i386 libxcb-randr0:i386 libxcb-shm0:i386 libxcb-xf86dri0:i386
+
 Как я сделал систему гайд https://github.com/Griggorii/Ubuntu-Cosmic-Budgie-18.10-OS3.0-fix-FPS-Window-Resizer-UPDATE
