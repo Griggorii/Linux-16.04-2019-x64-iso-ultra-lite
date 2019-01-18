@@ -16,4 +16,6 @@ sudo apt install libxfont1:i386 libsndfile1:i386 libflac8:i386 libgssapi-krb5-2:
 
 Впрочем что бы не пользоваться opera можно обновить firefox из synaptic , в новом firefox шрифты будут луччше для любых сайтов.
 
+Новый playonlinux http://ftp.br.debian.org/debian/pool/contrib/p/playonlinux/playonlinux_4.3.4-1_all.deb
+
 Для более мощных ПК с более чем 2 Гб memory рекомендую OS 5.0 https://www.youtube.com/watch?v=wmbaA95bweA
